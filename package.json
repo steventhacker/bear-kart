@@ -1,0 +1,21 @@
+{
+  "name": "bear-kart",
+  "version": "0.1.0",
+  "description": "Shopping cart",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Thacker <thacker.steve@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-basic-auth": "^1.1.4",
+    "http": "0.0.0",
+    "morgan": "^1.9.0",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.6"
+  }
+}
